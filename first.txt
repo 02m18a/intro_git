@@ -1,3 +1,6 @@
 git test
 
 3/19 2回目
+
+・add
+・git commit
